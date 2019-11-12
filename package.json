@@ -1,0 +1,22 @@
+{
+  "name": "proyectodb",
+  "version": "1.0.0",
+  "description": "DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyn2903flo/mo-back.git"
+  },
+  "keywords": [
+    "mochileros"
+  ],
+  "author": "mochileros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyn2903flo/mo-back/issues"
+  },
+  "homepage": "https://github.com/cyn2903flo/mo-back#readme"
+}
