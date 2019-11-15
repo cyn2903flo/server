@@ -3,7 +3,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const { User, Trip } = require('./mochilero');
-app.use(cors());
+
 
 const app = express();
 

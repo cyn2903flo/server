@@ -30,11 +30,11 @@ const userSchema = new Schema({
 const tripSchema = new Schema({
     origin:{
         type:String,
-        enum:['MEX','CHI',"CMB","ESP"]
+        enum:['Ciudad de México']
     },
     destiny:{
         type:String,
-        enum:['MEX','CHI',"CMB","ESP"]
+        enum:['Cuernavaca','Tepoztlán',"Querétaro","Pachuca","Teotihuacan","Puebla"]
     },
     cost:Number,
     starDate:Number,
